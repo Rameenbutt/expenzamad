@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423374595520",
+    "firebase_url": "https://expenza-4bbb4-default-rtdb.firebaseio.com",
+    "project_id": "expenza-4bbb4",
+    "storage_bucket": "expenza-4bbb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423374595520:android:cba2836f095aa64b421425",
+        "android_client_info": {
+          "package_name": "com.example.expenza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHzZcNdxvpJTt7xW3WzGgOcedxRGJ_rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
